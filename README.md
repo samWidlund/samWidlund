@@ -18,4 +18,4 @@
 <h2 align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=1ABC9C&duration=4000&lines=upcoming+races;" />
 </h2>
-<li align="center"> kia fjällmaraton 100k</li>
+<li align="center"> <a href="https://fjallmaraton.se/fjallmaratonveckan/fjallmaraton-100k/"> kia fjällmaraton 100k</li>
